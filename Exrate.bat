@@ -1,0 +1,1 @@
+"C:\Users\moons\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" execute --file C:\Users\moons\Documents\UiPath\220408\Flowchart_02.xaml

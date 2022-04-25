@@ -1,0 +1,1 @@
+"C:\Users\moons\AppData\Local\Programs\UiPath\Studio\UiRobot.exe" execute --file C:\Users\moons\Documents\UiPath\kakao_exrate_220424\Main.xaml
